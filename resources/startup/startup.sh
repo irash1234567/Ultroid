@@ -2,8 +2,8 @@
 # Ultroid - UserBot
 # Copyright (C) 2021 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# This file is a part of < https://github.com/irash1234567/Ultroid >
+# PLease read the GNU Affero General Public License in <https://github.com/irash1234567/Ultroid/blob/main/LICENSE/>.
 
 
 echo "
@@ -12,7 +12,7 @@ echo "
             ┃┃┃┗┫┏┫┏┫╋┃┃╋┃
             ┗━┻━┻━┻┛┗━┻┻━┛
 
-      Visit @TheUltroid for updates!!
+      Visit @ULTRONBOTS for updates!!
 
 "
 
